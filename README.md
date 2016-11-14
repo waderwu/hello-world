@@ -2,7 +2,7 @@
 just try
 edit by github destkp
 
-# githug markdown 语法
+# github markdown 语法
 
 http://www.yaosansi.com/post/markdown-on-github/
 
