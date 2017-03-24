@@ -12,5 +12,3 @@ python 语法高亮
 def hello_world()
   print ("hello world!")
 ```
-# pycahrm and git
-`vcs`
